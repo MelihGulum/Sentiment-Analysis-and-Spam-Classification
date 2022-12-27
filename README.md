@@ -23,28 +23,61 @@
 
 # :notebook_with_decorative_cover: Table of Contents
 
-- [ABOUT THE PROJECT](#about-the-project)
+- [ABOUT THE PROJECT](#star2-about-the-project)
   * [Screenshots](#camera-screenshots)
-  * [Tech Stack](#tech-stack)
-  * [Features](#)
-- [DATASETS]
-- [DEEP LEARNING]
+  * [Tech Stack](#space_invader-tech-stack)
+  * [Features](#dart-features)
+- [DATASETS](#cd-dataset)
+- [DEEP LEARNING](#robot-deep-learning)
+- [FLASK](#computer-flask)
   * [Database]
   * [Multi-Language]
-- [FLASK]
-- [HOW TO RUN]
+- [HOW TO RUN](#runner-how-to-run)
 
-<!-- About the Project -->
+
 ## :star2: About the Project
 
-
-<!-- Screenshots -->
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://user-images.githubusercontent.com/81585804/209660461-d7f8b685-5081-4961-af20-5ea5be9f2383.gif" alt="Screenshots" />
+  <img src="https://user-images.githubusercontent.com/81585804/209660461-d7f8b685-5081-4961-af20-5ea5be9f2383.gif" alt="Screenshots" width="70%" height="70%">
 </div>
 
-
-<!-- TechStack -->
 ### :space_invader: Tech Stack
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ul>
+</details>
+
+  <summary>Server</summary>
+  <ul>
+    <li>Python - Flask</li>
+  </ul>
+</details>
+
+  <summary>Database</summary>
+  <ul>
+    <li>MySQL</li>
+  </ul>
+</details>
+
+### :dart: Features
+
+- Prediction of the sentiment of the given sentences
+- Classification of SMS as spam or ham
+- Recording the messages sent from the user to the database
+- Vanilla language switcher 
+- Searching for a specific word in datasets
+
+## 	:cd: Datasets
+Two different data sets were used in the project. The first is <a href="https://www.kaggle.com/datasets/kazanova/sentiment140">Sentiment140</a>, which is used for sentiment analysis. Sentimen140 is consist of 1.6 million tweets and labelled as "<em>positive</em>" or "<em>negative</em>". The second is the <a href="https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset">SMS Spam Collection Dataset</a> used for sms classification. SMS Spam Collection Dataset contains almost 5.6k English SMS. Also, this dataset is labeled as two classes too(Spam - Ham). The spam class contains about 5k of data.
+
+## :robot: Deep Learning
+
+## :computer: Flask
+
+## :runner: How to Run
