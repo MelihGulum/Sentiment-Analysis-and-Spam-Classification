@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/81585804/209670788-a3cbb670-fc6e-4a38-973a-994d9e506a17.png" alt="MGC Logo" width="350px" height="100px">
+  <img src="https://user-images.githubusercontent.com/81585804/209670788-a3cbb670-fc6e-4a38-973a-994d9e506a17.png" alt="MGC Logo" width="500px" height="200px">
   <h1>Sentiment Analysis and Spam Classification</h1>
  
    <!-- Badges -->
