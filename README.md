@@ -25,7 +25,7 @@
 
 - [ABOUT THE PROJECT](#about-the-project)
   * [Screenshots](#camera-screenshots)
-  * [Tech Stack](#)
+  * [Tech Stack](#tech-stack)
   * [Features](#)
 - [DATASETS]
 - [DEEP LEARNING]
