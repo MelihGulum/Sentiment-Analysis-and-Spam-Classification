@@ -27,7 +27,7 @@
   * [Screenshots](#camera-screenshots)
   * [Tech Stack](#space_invader-tech-stack)
   * [Features](#dart-features)
-- [DATASETS](#cd-dataset)
+- [DATASETS](#cd-datasets)
 - [DEEP LEARNING](#robot-deep-learning)
 - [FLASK](#computer-flask)
   * [Database]
@@ -53,12 +53,14 @@
   </ul>
 </details>
 
+<details>
   <summary>Server</summary>
   <ul>
     <li>Python - Flask</li>
   </ul>
 </details>
 
+<details>
   <summary>Database</summary>
   <ul>
     <li>MySQL</li>
