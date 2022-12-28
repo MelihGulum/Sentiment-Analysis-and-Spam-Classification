@@ -7,12 +7,12 @@ from flask_mysqldb import MySQL
 
 app = Flask(__name__)
 app.config['DEBUG'] = True
-app.config['MYSQL_HOST'] = "localhost"
-app.config['MYSQL_USER'] = "root"
-app.config['MYSQL_PASSWORD'] = ""
-app.config['MYSQL_DB'] = "flaskdb"
+app.config['MYSQL_HOST'] = "YOUR_HOST"
+app.config['MYSQL_USER'] = "YOUR_USERNAME"
+app.config['MYSQL_PASSWORD'] = "YOUR_PASSWORD"
+app.config['MYSQL_DB'] = "DB"
 app.config['MYSQL_CURSORCLASS'] = "DictCursor"
-app.config['SECRET_KEY'] = '^%huYtFd90;90jjj'
+app.config['SECRET_KEY'] = 'A_VERY_SECRET_KEY'
 
 mysql = MySQL(app)
 
