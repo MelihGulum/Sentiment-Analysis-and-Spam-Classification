@@ -38,7 +38,7 @@
 
 
 ## :star2: About the Project
-
+This study is a Natural Language Processing project which is one of the artificial intelligence applications. This project was carried out in order to analyze the sentiment from Twitter comments and to understand whether the text message (SMS) received on the phone is unsolicited message (spam). Later, it was integrated into the web and a more understandable and simple graphical interface was created for the users.
 ### :camera: Screenshots
 
 <div align="center"> 
