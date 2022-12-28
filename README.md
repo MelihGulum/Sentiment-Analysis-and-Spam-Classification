@@ -1,3 +1,4 @@
+<br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/81585804/209670788-a3cbb670-fc6e-4a38-973a-994d9e506a17.png" alt="MGC Logo" width="500px" height="150px">
   <h1>Sentiment Analysis and Spam Classification</h1>
@@ -83,10 +84,10 @@ Two different data sets were used in the project. The first is <a href="https://
 ⚠️ If you want to examine the dataset, please do not forget to add the datasets to the dataset folder.
 
 ## :robot: Deep Learning
-In this section, topics such as ***model training*** and ***preprocessing*** will be discussed. The Sentiment dataset has been cleaned of some special characters like "@, http, 0-9". In addition, the stop words have been removed. Then, <a href="https://en.wikipedia.org/wiki/Word2vec">Word2vec</a> was trained from these tokens. After that, these texts are pad_sequenced with a maximum length of 300. After the embedding layer was created, the vanilla LSTM model was created. After the embedding layer was created, the vanilla LSTM model was created. The final accuracy of the model is **79.10%**. The model architecture can be seen in the figure below.
+In this section, topics such as ***model training*** and ***preprocessing*** will be discussed. The Sentiment dataset has been cleaned of some special characters like "@, http, 0-9". In addition, the stop words have been removed. Then, <a href="https://en.wikipedia.org/wiki/Word2vec">Word2vec</a> was trained from these tokens. After that, these texts are pad_sequenced with a maximum length of 300. After the embedding layer was created, the vanilla **LSTM** model was builded. The final accuracy of the model is **79.10%**. The model architecture can be seen in the figure below.
 
- <img src="https://user-images.githubusercontent.com/81585804/209803521-84b0ac0c-493b-457e-8a24-d372bc3acc03.png" alt="Model Architecture">
- <p align="center"> <em>Model Architecture (Image by Author)</em> </p><br>
+ <br><img src="https://user-images.githubusercontent.com/81585804/209803521-84b0ac0c-493b-457e-8a24-d372bc3acc03.png" alt="Model Architecture">
+ <p align="center"> <em>Model Architecture (Image by Author)</em> </p>
  
  The Spam dataset was trained with ***Multinomial Naive Bayes*** algorithm is a Bayesian learning approach popular in Natural Language Processing (NLP).
 
@@ -94,7 +95,7 @@ In this section, topics such as ***model training*** and ***preprocessing*** wil
 The Web Application consists of 5 pages which can be seen in the gif above. These are Home, Project, About, Contact and finally Dataset page.
 
 ### :card_index_dividers: Database
-After filling out the form on the Contact page, users can convey their opinions about the project or their problems, if any.
+Users can submit their opinions, suggestions or problems about the project after filling out the form on the Contact page. Some information in the form is recorded in the database.
 
 SQL query that saves data to MySQL database:
 
