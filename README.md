@@ -110,6 +110,7 @@ CREATE TABLE contact (
 	);
 ```
 
+
 ### :world_map: Multi-Language
 Web App offers you two different language support. One is in **English** and the other is in **Turkish**. This option is made with vanilla Javascript and is open for development.
 
