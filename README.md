@@ -72,14 +72,19 @@
 
 - Prediction of the sentiment of the given sentences
 - Classification of SMS as spam or ham
+- You can create a new dataset (via User Sentences).
 - Recording the messages sent from the user to the database
 - Vanilla language switcher 
 - Searching for a specific word in datasets
 
 ## 	:cd: Datasets
-Two different data sets were used in the project. The first is <a href="https://www.kaggle.com/datasets/kazanova/sentiment140">Sentiment140</a>, which is used for sentiment analysis. Sentimen140 is consist of 1.6 million tweets and labelled as "<em>positive</em>" or "<em>negative</em>". The second is the <a href="https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset">SMS Spam Collection Dataset</a> used for sms classification. SMS Spam Collection Dataset contains almost 5.6k English SMS. Also, this dataset is labeled as two classes too(Spam - Ham). The spam class contains about 5k of data.
+Two different data sets were used in the project. The first is <a href="https://www.kaggle.com/datasets/kazanova/sentiment140">Sentiment140</a>, which is used for sentiment analysis. Sentimen140 is consist of 1.6 million tweets and labelled as "<em>positive</em>" or "<em>negative</em>". The second is the <a href="https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset">SMS Spam Collection Dataset</a> used for sms classification. SMS Spam Collection Dataset contains almost 5.6k English SMS. Also, this dataset is labeled as two classes too (Spam - Ham). The spam class contains about 5k of data.
+
+⚠️ If you want to examine the dataset, please do not forget to add the datasets to the dataset folder.
 
 ## :robot: Deep Learning
+
+
 
 ## :computer: Flask
 
