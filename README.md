@@ -5,21 +5,16 @@
  
    <!-- Badges -->
   <p>
-    <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-      <img src="https://img.shields.io/github/contributors/MelihGulum/Sentiment-Analysis-and-Spam-Classification" alt="contributors" />
-    </a>
+    <a href="https://github.com/MelihGulum/Sentiment-Analysis-and-Spam-Classification/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/MelihGulum/Sentiment-Analysis-and-Spam-Classification" alt="contributors" /></a>
     <a href="">
-      <img src="https://img.shields.io/github/last-commit/MelihGulum/Sentiment-Analysis-and-Spam-Classification" alt="last update" />
-    </a>
-    <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
-      <img src="https://img.shields.io/github/forks/MelihGulum/Sentiment-Analysis-and-Spam-Classification" alt="forks" />
-    </a>
-    <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
-      <img src="https://img.shields.io/github/stars/MelihGulum/Sentiment-Analysis-and-Spam-Classification" alt="stars" />
-    </a>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
-      <img src="https://img.shields.io/github/issues/MelihGulum/Sentiment-Analysis-and-Spam-Classification" alt="open issues" />
-    </a>
+      <img src="https://img.shields.io/github/last-commit/MelihGulum/Sentiment-Analysis-and-Spam-Classification" alt="last update" /></a>
+    <a href="https://github.com/MelihGulum/Sentiment-Analysis-and-Spam-Classification/network/members">
+      <img src="https://img.shields.io/github/forks/MelihGulum/Sentiment-Analysis-and-Spam-Classification" alt="forks" /></a>
+    <a href="https://github.com/MelihGulum/Sentiment-Analysis-and-Spam-Classification/stargazers">
+      <img src="https://img.shields.io/github/stars/MelihGulum/Sentiment-Analysis-and-Spam-Classification" alt="stars" /></a>
+    <a href="https://github.com/MelihGulum/Sentiment-Analysis-and-Spam-Classification/issues/">
+      <img src="https://img.shields.io/github/issues/MelihGulum/Sentiment-Analysis-and-Spam-Classification" alt="open issues" /></a>
   </p>
 </div>
 
